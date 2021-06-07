@@ -6,7 +6,7 @@ In this assignment I finished the back end code of a fitness tracker app. In thi
 
 
 ## Deployed link
-
+https://floating-fortress-20713.herokuapp.com/
 
 ## Usage
 
